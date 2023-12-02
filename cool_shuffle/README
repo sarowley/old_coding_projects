@@ -1,0 +1,16 @@
+/*********************************************************************************
+* Sean Rowley, sarowley
+* 2023 Winter CSE101 PA5
+* README
+*********************************************************************************/
+REAME: The table of contents for all the files provided
+
+Makefile: This is the make file that compiles the program to run. (This was provided by Tantalo)
+
+List.h: This is the header file that contains matching function declarations for the List ADT for PA5
+
+List.cpp: This is a file that contains a bunch of functions for the List ADT used in this assignment.
+
+ListTest.cpp: This is a self made test that is used to check that each of the functions within List.cpp actually works. (I made this)
+
+Shuffle.cpp: This is the file that takes a number greater than 0 input and creates a list. It then breaks that list into two seperate lists and shuffles them. The purpose of this function is to see how many times it takes it shuffle back until all of the numbers are in the place they started.
